@@ -15,6 +15,7 @@ namespace LinkDev.DeleteAnnotation
         /// <summary>
         /// Custome Activity to Delete Annotation from Dynamics CRM after upload it to Azure Blob Storage
         /// </summary>
+        ///<Author>Ossama Abdallah</Author>
         /// <param name="executionContext"></param>
         protected override void Execute(CodeActivityContext executionContext)
         {
